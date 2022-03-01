@@ -1,9 +1,11 @@
 {
   "css.validate": false,
   "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "editor.tabSize": 2,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "headwind.runOnSave": false
+  "headwind.runOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
